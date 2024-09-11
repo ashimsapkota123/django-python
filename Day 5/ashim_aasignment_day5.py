@@ -18,6 +18,8 @@ for i in range(len(spending_card1)):
 
 for j in range(len(spending_card2)-len(spending_card1)):
     total_monthly_spend.append(round(spending_card2[i+(j+1)]))
+
+
 print("\n",total_monthly_spend)
 print("\nTotal Spend: ",("$"),sum(total_monthly_spend))
 
