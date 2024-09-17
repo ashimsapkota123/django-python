@@ -4,15 +4,15 @@
 #and if the number is divisible by 5 the play says buzz
 #add if the number is divisible by both the number the player has to say "fizzbuzz"
 
-# for i in range(1,100):
-#     if i % 3 == 0 and i % 5 == 0:
-#         print("fizzbuzz")
-#     elif i % 3 == 0:
-#         print("fizz")
-#     elif i % 5 == 0:
-#         print("buzz")
-#     else:
-#         print(i)
+for i in range(1,100):
+    if i % 3 == 0 and i % 5 == 0:
+        print("fizzbuzz")
+    elif i % 3 == 0:
+        print("fizz")
+    elif i % 5 == 0:
+        print("buzz")
+    else:
+        print(i)
 
 
 #Assignment #2

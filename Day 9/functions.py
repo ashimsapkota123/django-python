@@ -3,9 +3,9 @@
 #1 . I am ashim
 #2 . I am Sudip
 #3 . I am Shraddha
-# print("I am ashim")
-# print("I am Sudip")
-# print("I am Shraddha")
+print("I am ashim")
+print("I am Sudip")
+print("I am Shraddha")
 
 
 
